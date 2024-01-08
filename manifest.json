@@ -1,6 +1,21 @@
 {
   "name": "Progressive Web Application",
   "short_name": "PWA",
+  "description": "This is my first test PWA",
+  "screenshots": [
+    {
+      "src": "./images/desktop.png",
+      "type": "image/jpeg",
+      "sizes": "10914x1014",
+      "form_factor": "wide"
+    },
+    {
+      "src": "./images/mobile.png",
+      "type": "image/jpeg",
+      "sizes": "558x698",
+      "form_factor": "narrow"
+    }
+  ],
   "theme_color": "#3a1a86",
   "background_color": "#00b828",
   "display": "standalone",
